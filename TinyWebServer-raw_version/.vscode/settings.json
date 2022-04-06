@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "locker.h": "c",
-        "pthread.h": "c",
-        "*.tcc": "c"
-    }
-}
